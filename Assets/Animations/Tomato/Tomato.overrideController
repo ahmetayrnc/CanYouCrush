@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Tomato
+  m_Controller: {fileID: 9100000, guid: 547212e6b4fc5c949b3288cbfadaa7de, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 074a95049817a8a4f9699b68afa0b317, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: ea0476795577d0a4eac30b540a9056c7, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 68ba9f9cd5db29a43b561015a0723608, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 97297b357c3591542959df932ef62fe3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 467c862a945cc3749bb70810f6b1a73f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a90b48324a5da124987803641180b201, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ae4175dbb241414484d371c944e45c1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bf3eec40398786a49b8039b52c7edc74, type: 2}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Pineapple
+  m_Controller: {fileID: 9100000, guid: 547212e6b4fc5c949b3288cbfadaa7de, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 074a95049817a8a4f9699b68afa0b317, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cec346a46ffc51d43af8ce4cd22a7b74, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 68ba9f9cd5db29a43b561015a0723608, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c06bcfe87230a8419383318696eae24, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 467c862a945cc3749bb70810f6b1a73f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 978559f62e13a644f957d32f389f5b97, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7ae4175dbb241414484d371c944e45c1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 210f465cf0bcbd74fa45c31f871e0273, type: 2}
