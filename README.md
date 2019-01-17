@@ -19,7 +19,7 @@ Trailer for the game:
 
 ## Gallery
 <p align="middle">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="100" width="100">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/icon.png" height="100" width="100">
 </p>
 
 <p float="left" align="middle"
