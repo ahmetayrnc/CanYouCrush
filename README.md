@@ -23,7 +23,15 @@ Trailer for the game:
 </p>
 
 <p float="left" align="middle">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss1.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss2.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss3.jpg" height="555" width="270">
+</p>
+
+<p float="left" align="middle">
   <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss4.jpg" height="555" width="270">
   <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss5.jpg" height="555" width="270">
   <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss6.jpg" height="555" width="270">
 </p>
+
+
