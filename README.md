@@ -22,14 +22,14 @@ Trailer for the game:
   <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/GameLogo.png" height="100" width="100">
 </p>
 
-<p float="left" align="middle">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/MainMenu.png" height="555" width="270">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/TapToStart.png" height="555" width="270">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/InGame.png" height="555" width="270">
+<p float="left" align="middle"
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss1.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss2.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss3.jpg" height="555" width="270">
 </p>
 
 <p float="left" align="middle">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/InGame1.png" height="555" width="270">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/PauseScreen.png" height="555" width="270">
-  <img src="https://github.com/ahmetayrnc/Go-Straight/blob/master/images/EndGame.png" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss4.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss5.jpg" height="555" width="270">
+  <img src="https://github.com/ahmetayrnc/CanYouCrush/blob/master/images/ss6.jpg" height="555" width="270">
 </p>
