@@ -13,9 +13,9 @@ In Can You Crush, the main goal is to score as much as you can. Each time you cr
 - The animations are made using multiple sprites and the Unity animator.
 
 ## Links
-Play Store Link:
+Play Store Link: Due to technical difficulties with my computer, the game is not currently on any stores.
 
-Trailer for the game:
+Trailer for the game: https://youtu.be/J3fWvDTz7Dg
 
 ## Gallery
 <p align="middle">
